@@ -1,6 +1,6 @@
 ---
 title: "SAE 501 - Découverte de la plateforme Azure"
-date: 2023-01-22 # Ensure this date is not in the future
+date: 2025-01-22 # Ensure this date is not in the future
 tags: [Azure, Cloud, SAE]
 categories: [PortfolioEtu]
 layout: post

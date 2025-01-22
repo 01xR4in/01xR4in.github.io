@@ -1,6 +1,6 @@
 ---
 title: "SAE 502 - POC Kubernetes"
-date: 2023-01-22 # Ensure this date is not in the future
+date: 2025-01-22 # Ensure this date is not in the future
 tags: [Kubernetes, Projet, SAE]
 categories: [PortfolioEtu]
 layout: post
